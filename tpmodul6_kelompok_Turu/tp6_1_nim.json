@@ -1,0 +1,8 @@
+{
+    "nama": {
+        "depan": "John",
+        "belakang": "Doe"
+    },
+    "nim": 123456789,
+    "fakultas": "informatika"
+}
